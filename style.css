@@ -1,0 +1,27 @@
+h1 {
+    //color: brown;
+    font-family: 'Century Gothic'
+}
+
+* {
+   // border: solid
+}
+.website{
+    color:aqua;
+    background-color:black;
+    display:flex;
+        justify-content: space-between
+}
+.BMW {
+    color: yellow;
+    background-color: black;
+    
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+p,h2{
+    color: lawngreen;
+
+}
